@@ -40,7 +40,26 @@
     ],
     "uniqCompNum": 17,
     "versionPublish": "4.11.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "91",
+      "opacityOverlay": "71",
+      "text": "This Website Was Created By <a href='https://www.sarveshmrao.ml'>SARVESH M RAO</a> for his Brothers. :)",
+      "textButton": "Close"
+    },
+    "favicon": false,
+    "noImageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -50,7 +69,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/13f51476-6777-4e63-ab44-01df55738396_200x200-200x200.png"
       },
       "components": [
         {
