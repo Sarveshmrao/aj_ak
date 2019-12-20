@@ -883,6 +883,9 @@
               "-ms-transform": "none",
               "-o-transform": "none",
               "transform": "none"
+            },
+            "H3": {
+              "color": "#cccccc"
             }
           },
           "_name": "gallery5",
